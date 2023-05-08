@@ -1,6 +1,6 @@
 <!-- Fiszerman -->
 
-![Fiszerman](https://user-images.githubusercontent.com/123673170/236948772-71c6eb06-3ae1-4b0e-9d1c-9fc2c3cff336.png)
+![Fiszerman](https://user-images.githubusercontent.com/123673170/236949103-1dafc9d5-b197-42f8-845c-b57a21992c5d.png)
 
 <p align="center"><b>Narzędzie do przeprowadzania testów "phishingowych" w języku polskim'</i>.</b></p>
 
